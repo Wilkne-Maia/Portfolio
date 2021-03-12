@@ -19,3 +19,5 @@
 * [Github](https://github.com/Wilkne-Maia)
 
 ## Projetos:
+
+* **Analisando Dados da Empresa com Python e Pandas:** https://bit.ly/3cp6MKP
